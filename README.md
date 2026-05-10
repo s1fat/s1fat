@@ -16,7 +16,52 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on advanced multi-framework FiveM resources compatible with ESX, QBCore, Qbox & S1 Framework.<br><br>👯 I’m looking to collaborate on custom FiveM servers, premium resources, UI/NUI systems, and optimized gameplay mechanics.<br><br>🤝 I’m looking for help with advanced UI design, scalable architecture, performance optimization, and innovative FiveM systems.<br><br>🌱 I’m currently learning deeper framework abstraction, advanced Lua optimization, modern UI/NUI workflows, and scalable server systems.<br><br>💬 Ask me about FiveM development, Lua scripting, ESX, QB, Qbox, S1 Framework, ox_lib, ox_target, optimization, Tebex-ready resources, and custom gameplay systems.<br><br>🛒 Tebex Store: https://s1fat.tebex.io/<br><br>⚡ Fun fact: Working on Fiverr since 2021 with 48+ reviews and a 4.9⭐ rating while building production-ready FiveM resources under S1FAT UNIVERSE 🚀
+# S1FAT 🚀
+FiveM Developer (since 2021)
+
+---
+
+## 🧠 What I Do
+Building high-performance multi-framework systems for:
+ESX • QBCore • Qbox • S1 Framework
+
+---
+
+## 🔧 Current Focus
+- Advanced FiveM script development  
+- Scalable server architecture  
+- Optimized gameplay systems  
+- Modern UI / NUI design  
+
+---
+
+## 🤝 Open To
+- Collaboration on FiveM servers  
+- Premium script development  
+- UI/UX system improvements  
+- Large-scale server projects  
+
+---
+
+## 📚 Learning
+- Framework abstraction systems  
+- Advanced Lua optimization  
+- Modern FiveM architecture patterns  
+
+---
+
+## 💬 Ask Me About
+FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
+
+---
+
+## 🛒 Store
+https://s1fat.tebex.io/
+
+---
+
+## ⚡ Fun Fact
+Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
 
 
 ## 🌐 Socials:
