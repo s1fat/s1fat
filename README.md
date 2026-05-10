@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 # S1FAT 🚀
 FiveM Developer (since 2021)
 
----
-
 ## 🧠 What I Do
 Building high-performance multi-framework systems for:
 ESX • QBCore • Qbox • S1 Framework
-
----
 
 ## 🔧 Current Focus
 - Advanced FiveM script development  
@@ -33,32 +29,22 @@ ESX • QBCore • Qbox • S1 Framework
 - Optimized gameplay systems  
 - Modern UI / NUI design  
 
----
-
 ## 🤝 Open To
 - Collaboration on FiveM servers  
 - Premium script development  
 - UI/UX system improvements  
 - Large-scale server projects  
 
----
-
 ## 📚 Learning
 - Framework abstraction systems  
 - Advanced Lua optimization  
 - Modern FiveM architecture patterns  
 
----
-
 ## 💬 Ask Me About
 FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
 
----
-
 ## 🛒 Store
 https://s1fat.tebex.io/
-
----
 
 ## ⚡ Fun Fact
 Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
