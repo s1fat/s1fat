@@ -38,6 +38,16 @@ I enjoy designing clean architecture, scalable backend logic, and performance-dr
 </div>
 
 ---
+## ☕ Support Me
 
+If you like my work and want to support development:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?logo=patreon&logoColor=white)](https://www.patreon.com/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNQ4s35Ht2)
+
+---
+
+💬 Discord Username: **s1fat**  
 💚 Tebex Store: https://s1fat.tebex.io/  
-💬 Discord: s1fat  
+💚 Community & Support Server: https://discord.gg/uNQ4s35Ht2  
