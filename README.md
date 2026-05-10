@@ -16,34 +16,17 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-S1FAT FiveM Developer (since 2021) 🚀
+S1FAT is a FiveM Developer since 2021, focused on building high-performance, production-ready multi-framework systems compatible with ESX, QBCore, Qbox, and S1 Framework. The main goal is to create clean, scalable, and optimized scripts with strong emphasis on modern gameplay mechanics and server performance.
 
-🧠 What I Do :
-Building high-performance multi-framework systems for: ESX • QBCore • Qbox • S1 Framework
+Currently working on advanced FiveM systems, UI/NUI development, and scalable server architecture while continuously improving framework abstraction techniques and Lua optimization. Always exploring better ways to build efficient and modern FiveM resources.
 
-🔧 Current Focus :
-- Advanced FiveM script development  
-- Scalable server architecture  
-- Optimized gameplay systems  
-- Modern UI / NUI design  
+Open to collaboration on custom FiveM servers, premium script development, UI/UX improvements, and large-scale roleplay systems. Also available for help in framework integration, system design, and performance optimization.
 
-🤝 Open To :
-- Collaboration on FiveM servers  
-- Premium script development  
-- UI/UX system improvements  
-- Large-scale server projects  
+Ask about FiveM scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, Tebex-ready resources, and advanced server systems.
 
-📚 Learning :
-- Framework abstraction systems  
-- Advanced Lua optimization  
-- Modern FiveM architecture patterns  
+Tebex Store: https://s1fat.tebex.io/
 
-💬 Ask Me About : 
-- FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
-⚡ Fun Fact : 
-- Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
-
-### 🛒 Store https://s1fat.tebex.io/
+Fun fact: Active on Fiverr since 2021 with 48+ reviews and a 4.9⭐ rating, consistently delivering clean and production-grade FiveM resources under S1FAT UNIVERSE 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uNQ4s35Ht2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/s1fatgg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@s1fatgg) 
