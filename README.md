@@ -38,8 +38,10 @@ Building high-performance multi-framework systems for: ESX • QBCore • Qbox �
 - Advanced Lua optimization  
 - Modern FiveM architecture patterns  
 
-💬 Ask Me About : FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
-⚡ Fun Fact : Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
+💬 Ask Me About : 
+- FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
+⚡ Fun Fact : 
+- Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
 
 ### 🛒 Store https://s1fat.tebex.io/
 
