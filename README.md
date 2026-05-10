@@ -16,39 +16,32 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-# S1FAT 🚀
-FiveM Developer (since 2021)
+S1FAT FiveM Developer (since 2021) 🚀
 
-## 🧠 What I Do
-Building high-performance multi-framework systems for:
-ESX • QBCore • Qbox • S1 Framework
+🧠 What I Do :
+Building high-performance multi-framework systems for: ESX • QBCore • Qbox • S1 Framework
 
-## 🔧 Current Focus
+🔧 Current Focus :
 - Advanced FiveM script development  
 - Scalable server architecture  
 - Optimized gameplay systems  
 - Modern UI / NUI design  
 
-## 🤝 Open To
+🤝 Open To :
 - Collaboration on FiveM servers  
 - Premium script development  
 - UI/UX system improvements  
 - Large-scale server projects  
 
-## 📚 Learning
+📚 Learning :
 - Framework abstraction systems  
 - Advanced Lua optimization  
 - Modern FiveM architecture patterns  
 
-## 💬 Ask Me About
-FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
+💬 Ask Me About : FiveM development, Lua scripting, ESX/QB/Qbox/S1 integration, ox_lib, ox_target, optimization, and Tebex-ready systems.
+⚡ Fun Fact : Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
 
-## 🛒 Store
-https://s1fat.tebex.io/
-
-## ⚡ Fun Fact
-Fiverr developer since 2021 — 48+ reviews with a 4.9⭐ rating, focused on clean and production-ready FiveM systems 🚀
-
+### 🛒 Store https://s1fat.tebex.io/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uNQ4s35Ht2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/s1fatgg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@s1fatgg) 
